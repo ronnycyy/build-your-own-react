@@ -1,7 +1,4 @@
 # build-your-own-react
-手写一个简易版React
-
-
 学习`React`源码的过程中，发现一篇国外大神的手写极简`React`的文章[build-your-own-react](https://pomb.us/build-your-own-react/)。
 
 于是做了翻译，收录在我的语雀知识库`前端修炼之路`中，文章命名为[构建极简React](https://www.yuque.com/ronny-91ygq)。
